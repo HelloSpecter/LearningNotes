@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.1321
+VisualStudioVersion = 15.0.28307.1300
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "十大排序算法", "十大排序算法_1_BubbleSort\十大排序算法.csproj", "{81F239C4-7FFC-4AA0-8AD1-EA2FA2F6BD50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "十大排序算法", "十大排序算法\十大排序算法.csproj", "{81F239C4-7FFC-4AA0-8AD1-EA2FA2F6BD50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9C7216D1-E047-4359-B17D-D59B9789DA68}
+		SolutionGuid = {4D104AD9-ADC1-4884-BDBD-A8E61AD710C4}
 	EndGlobalSection
 EndGlobal

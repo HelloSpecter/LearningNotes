@@ -5,3 +5,10 @@ C:\Users\Administrator\source\repos\十大排序算法_1_BubbleSort\十大排序
 C:\Users\Administrator\source\repos\十大排序算法_1_BubbleSort\十大排序算法_1_BubbleSort\obj\Debug\十大排序算法.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\十大排序算法_1_BubbleSort\十大排序算法_1_BubbleSort\obj\Debug\十大排序算法_1_BubbleSort.exe
 C:\Users\Administrator\source\repos\十大排序算法_1_BubbleSort\十大排序算法_1_BubbleSort\obj\Debug\十大排序算法_1_BubbleSort.pdb
+E:\LearningNotes\LearningNotes\十大排序算法\十大排序算法\bin\Debug\十大排序算法_1_BubbleSort.exe.config
+E:\LearningNotes\LearningNotes\十大排序算法\十大排序算法\bin\Debug\十大排序算法_1_BubbleSort.exe
+E:\LearningNotes\LearningNotes\十大排序算法\十大排序算法\bin\Debug\十大排序算法_1_BubbleSort.pdb
+E:\LearningNotes\LearningNotes\十大排序算法\十大排序算法\obj\Debug\十大排序算法.csprojAssemblyReference.cache
+E:\LearningNotes\LearningNotes\十大排序算法\十大排序算法\obj\Debug\十大排序算法.csproj.CoreCompileInputs.cache
+E:\LearningNotes\LearningNotes\十大排序算法\十大排序算法\obj\Debug\十大排序算法_1_BubbleSort.exe
+E:\LearningNotes\LearningNotes\十大排序算法\十大排序算法\obj\Debug\十大排序算法_1_BubbleSort.pdb
