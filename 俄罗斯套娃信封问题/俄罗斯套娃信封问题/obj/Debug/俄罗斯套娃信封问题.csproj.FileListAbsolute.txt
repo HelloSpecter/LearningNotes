@@ -1,0 +1,7 @@
+F:\Unity_Work\俄罗斯套娃信封问题\俄罗斯套娃信封问题\bin\Debug\俄罗斯套娃信封问题.exe.config
+F:\Unity_Work\俄罗斯套娃信封问题\俄罗斯套娃信封问题\bin\Debug\俄罗斯套娃信封问题.exe
+F:\Unity_Work\俄罗斯套娃信封问题\俄罗斯套娃信封问题\bin\Debug\俄罗斯套娃信封问题.pdb
+F:\Unity_Work\俄罗斯套娃信封问题\俄罗斯套娃信封问题\obj\Debug\俄罗斯套娃信封问题.csprojAssemblyReference.cache
+F:\Unity_Work\俄罗斯套娃信封问题\俄罗斯套娃信封问题\obj\Debug\俄罗斯套娃信封问题.csproj.CoreCompileInputs.cache
+F:\Unity_Work\俄罗斯套娃信封问题\俄罗斯套娃信封问题\obj\Debug\俄罗斯套娃信封问题.exe
+F:\Unity_Work\俄罗斯套娃信封问题\俄罗斯套娃信封问题\obj\Debug\俄罗斯套娃信封问题.pdb

@@ -1,0 +1,7 @@
+F:\Unity_Work\clone_copy\clone_copy\bin\Debug\clone_copy.exe.config
+F:\Unity_Work\clone_copy\clone_copy\bin\Debug\clone_copy.exe
+F:\Unity_Work\clone_copy\clone_copy\bin\Debug\clone_copy.pdb
+F:\Unity_Work\clone_copy\clone_copy\obj\Debug\clone_copy.csprojAssemblyReference.cache
+F:\Unity_Work\clone_copy\clone_copy\obj\Debug\clone_copy.csproj.CoreCompileInputs.cache
+F:\Unity_Work\clone_copy\clone_copy\obj\Debug\clone_copy.exe
+F:\Unity_Work\clone_copy\clone_copy\obj\Debug\clone_copy.pdb

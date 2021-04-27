@@ -1,0 +1,7 @@
+F:\Unity_Work\Event_Test\Event_Test\bin\Debug\Event_Test.exe.config
+F:\Unity_Work\Event_Test\Event_Test\bin\Debug\Event_Test.exe
+F:\Unity_Work\Event_Test\Event_Test\bin\Debug\Event_Test.pdb
+F:\Unity_Work\Event_Test\Event_Test\obj\Debug\Event_Test.csprojAssemblyReference.cache
+F:\Unity_Work\Event_Test\Event_Test\obj\Debug\Event_Test.csproj.CoreCompileInputs.cache
+F:\Unity_Work\Event_Test\Event_Test\obj\Debug\Event_Test.exe
+F:\Unity_Work\Event_Test\Event_Test\obj\Debug\Event_Test.pdb
