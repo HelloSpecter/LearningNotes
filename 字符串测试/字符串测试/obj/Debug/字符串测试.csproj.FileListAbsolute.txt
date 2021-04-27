@@ -1,0 +1,7 @@
+D:\gd\workspace\字符串测试\字符串测试\bin\Debug\字符串测试.exe.config
+D:\gd\workspace\字符串测试\字符串测试\bin\Debug\字符串测试.exe
+D:\gd\workspace\字符串测试\字符串测试\bin\Debug\字符串测试.pdb
+D:\gd\workspace\字符串测试\字符串测试\obj\Debug\字符串测试.csprojAssemblyReference.cache
+D:\gd\workspace\字符串测试\字符串测试\obj\Debug\字符串测试.csproj.CoreCompileInputs.cache
+D:\gd\workspace\字符串测试\字符串测试\obj\Debug\字符串测试.exe
+D:\gd\workspace\字符串测试\字符串测试\obj\Debug\字符串测试.pdb

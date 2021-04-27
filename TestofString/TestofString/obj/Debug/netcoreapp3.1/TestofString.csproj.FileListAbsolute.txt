@@ -1,0 +1,13 @@
+D:\gd\workspace\TestofString\TestofString\obj\Debug\netcoreapp3.1\TestofString.csprojAssemblyReference.cache
+D:\gd\workspace\TestofString\TestofString\obj\Debug\netcoreapp3.1\TestofString.AssemblyInfoInputs.cache
+D:\gd\workspace\TestofString\TestofString\obj\Debug\netcoreapp3.1\TestofString.AssemblyInfo.cs
+D:\gd\workspace\TestofString\TestofString\obj\Debug\netcoreapp3.1\TestofString.csproj.CoreCompileInputs.cache
+D:\gd\workspace\TestofString\TestofString\bin\Debug\netcoreapp3.1\TestofString.exe
+D:\gd\workspace\TestofString\TestofString\bin\Debug\netcoreapp3.1\TestofString.deps.json
+D:\gd\workspace\TestofString\TestofString\bin\Debug\netcoreapp3.1\TestofString.runtimeconfig.json
+D:\gd\workspace\TestofString\TestofString\bin\Debug\netcoreapp3.1\TestofString.runtimeconfig.dev.json
+D:\gd\workspace\TestofString\TestofString\bin\Debug\netcoreapp3.1\TestofString.dll
+D:\gd\workspace\TestofString\TestofString\bin\Debug\netcoreapp3.1\TestofString.pdb
+D:\gd\workspace\TestofString\TestofString\obj\Debug\netcoreapp3.1\TestofString.dll
+D:\gd\workspace\TestofString\TestofString\obj\Debug\netcoreapp3.1\TestofString.pdb
+D:\gd\workspace\TestofString\TestofString\obj\Debug\netcoreapp3.1\TestofString.genruntimeconfig.cache

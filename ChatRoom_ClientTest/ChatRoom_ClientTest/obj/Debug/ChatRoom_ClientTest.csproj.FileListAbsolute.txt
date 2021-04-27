@@ -1,0 +1,7 @@
+D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\bin\Debug\ChatRoom_ClientTest.exe.config
+D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\bin\Debug\ChatRoom_ClientTest.exe
+D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\bin\Debug\ChatRoom_ClientTest.pdb
+D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_ClientTest.csprojAssemblyReference.cache
+D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_ClientTest.csproj.CoreCompileInputs.cache
+D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_ClientTest.exe
+D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_ClientTest.pdb

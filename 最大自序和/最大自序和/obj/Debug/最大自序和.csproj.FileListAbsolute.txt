@@ -1,0 +1,7 @@
+D:\gd\workspace\最大自序和\最大自序和\bin\Debug\最大自序和.exe.config
+D:\gd\workspace\最大自序和\最大自序和\bin\Debug\最大自序和.exe
+D:\gd\workspace\最大自序和\最大自序和\bin\Debug\最大自序和.pdb
+D:\gd\workspace\最大自序和\最大自序和\obj\Debug\最大自序和.csprojAssemblyReference.cache
+D:\gd\workspace\最大自序和\最大自序和\obj\Debug\最大自序和.csproj.CoreCompileInputs.cache
+D:\gd\workspace\最大自序和\最大自序和\obj\Debug\最大自序和.exe
+D:\gd\workspace\最大自序和\最大自序和\obj\Debug\最大自序和.pdb

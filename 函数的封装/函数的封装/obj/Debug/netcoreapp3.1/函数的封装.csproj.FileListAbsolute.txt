@@ -1,0 +1,13 @@
+D:\gd\workspace\函数的封装\函数的封装\bin\Debug\netcoreapp3.1\函数的封装.exe
+D:\gd\workspace\函数的封装\函数的封装\bin\Debug\netcoreapp3.1\函数的封装.deps.json
+D:\gd\workspace\函数的封装\函数的封装\bin\Debug\netcoreapp3.1\函数的封装.runtimeconfig.json
+D:\gd\workspace\函数的封装\函数的封装\bin\Debug\netcoreapp3.1\函数的封装.runtimeconfig.dev.json
+D:\gd\workspace\函数的封装\函数的封装\bin\Debug\netcoreapp3.1\函数的封装.dll
+D:\gd\workspace\函数的封装\函数的封装\bin\Debug\netcoreapp3.1\函数的封装.pdb
+D:\gd\workspace\函数的封装\函数的封装\obj\Debug\netcoreapp3.1\函数的封装.csprojAssemblyReference.cache
+D:\gd\workspace\函数的封装\函数的封装\obj\Debug\netcoreapp3.1\函数的封装.AssemblyInfoInputs.cache
+D:\gd\workspace\函数的封装\函数的封装\obj\Debug\netcoreapp3.1\函数的封装.AssemblyInfo.cs
+D:\gd\workspace\函数的封装\函数的封装\obj\Debug\netcoreapp3.1\函数的封装.csproj.CoreCompileInputs.cache
+D:\gd\workspace\函数的封装\函数的封装\obj\Debug\netcoreapp3.1\函数的封装.dll
+D:\gd\workspace\函数的封装\函数的封装\obj\Debug\netcoreapp3.1\函数的封装.pdb
+D:\gd\workspace\函数的封装\函数的封装\obj\Debug\netcoreapp3.1\函数的封装.genruntimeconfig.cache

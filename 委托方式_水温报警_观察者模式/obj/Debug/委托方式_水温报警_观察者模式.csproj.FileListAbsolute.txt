@@ -1,0 +1,7 @@
+D:\gd\workspace\委托方式_水温报警_观察者模式\bin\Debug\委托方式_水温报警_观察者模式.exe.config
+D:\gd\workspace\委托方式_水温报警_观察者模式\bin\Debug\委托方式_水温报警_观察者模式.exe
+D:\gd\workspace\委托方式_水温报警_观察者模式\bin\Debug\委托方式_水温报警_观察者模式.pdb
+D:\gd\workspace\委托方式_水温报警_观察者模式\obj\Debug\委托方式_水温报警_观察者模式.csprojAssemblyReference.cache
+D:\gd\workspace\委托方式_水温报警_观察者模式\obj\Debug\委托方式_水温报警_观察者模式.csproj.CoreCompileInputs.cache
+D:\gd\workspace\委托方式_水温报警_观察者模式\obj\Debug\委托方式_水温报警_观察者模式.exe
+D:\gd\workspace\委托方式_水温报警_观察者模式\obj\Debug\委托方式_水温报警_观察者模式.pdb

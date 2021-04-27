@@ -1,0 +1,7 @@
+D:\gd\workspace\冒泡排序\bin\Debug\冒泡排序.exe.config
+D:\gd\workspace\冒泡排序\bin\Debug\冒泡排序.exe
+D:\gd\workspace\冒泡排序\bin\Debug\冒泡排序.pdb
+D:\gd\workspace\冒泡排序\obj\Debug\冒泡排序.csprojAssemblyReference.cache
+D:\gd\workspace\冒泡排序\obj\Debug\冒泡排序.csproj.CoreCompileInputs.cache
+D:\gd\workspace\冒泡排序\obj\Debug\冒泡排序.exe
+D:\gd\workspace\冒泡排序\obj\Debug\冒泡排序.pdb

@@ -1,0 +1,13 @@
+D:\gd\workspace\SortedList_test\SortedList_test\bin\Debug\netcoreapp3.1\SortedList_test.exe
+D:\gd\workspace\SortedList_test\SortedList_test\bin\Debug\netcoreapp3.1\SortedList_test.deps.json
+D:\gd\workspace\SortedList_test\SortedList_test\bin\Debug\netcoreapp3.1\SortedList_test.runtimeconfig.json
+D:\gd\workspace\SortedList_test\SortedList_test\bin\Debug\netcoreapp3.1\SortedList_test.runtimeconfig.dev.json
+D:\gd\workspace\SortedList_test\SortedList_test\bin\Debug\netcoreapp3.1\SortedList_test.dll
+D:\gd\workspace\SortedList_test\SortedList_test\bin\Debug\netcoreapp3.1\SortedList_test.pdb
+D:\gd\workspace\SortedList_test\SortedList_test\obj\Debug\netcoreapp3.1\SortedList_test.csprojAssemblyReference.cache
+D:\gd\workspace\SortedList_test\SortedList_test\obj\Debug\netcoreapp3.1\SortedList_test.AssemblyInfoInputs.cache
+D:\gd\workspace\SortedList_test\SortedList_test\obj\Debug\netcoreapp3.1\SortedList_test.AssemblyInfo.cs
+D:\gd\workspace\SortedList_test\SortedList_test\obj\Debug\netcoreapp3.1\SortedList_test.csproj.CoreCompileInputs.cache
+D:\gd\workspace\SortedList_test\SortedList_test\obj\Debug\netcoreapp3.1\SortedList_test.dll
+D:\gd\workspace\SortedList_test\SortedList_test\obj\Debug\netcoreapp3.1\SortedList_test.pdb
+D:\gd\workspace\SortedList_test\SortedList_test\obj\Debug\netcoreapp3.1\SortedList_test.genruntimeconfig.cache

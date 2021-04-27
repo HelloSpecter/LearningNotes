@@ -1,0 +1,7 @@
+E:\workspace\泛型\bin\Debug\泛型.exe.config
+E:\workspace\泛型\bin\Debug\泛型.exe
+E:\workspace\泛型\bin\Debug\泛型.pdb
+E:\workspace\泛型\obj\Debug\泛型.csprojAssemblyReference.cache
+E:\workspace\泛型\obj\Debug\泛型.csproj.CoreCompileInputs.cache
+E:\workspace\泛型\obj\Debug\泛型.exe
+E:\workspace\泛型\obj\Debug\泛型.pdb

@@ -1,0 +1,7 @@
+D:\gd\workspace\数组\bin\Debug\数组.exe.config
+D:\gd\workspace\数组\bin\Debug\数组.exe
+D:\gd\workspace\数组\bin\Debug\数组.pdb
+D:\gd\workspace\数组\obj\Debug\数组.csproj.CoreCompileInputs.cache
+D:\gd\workspace\数组\obj\Debug\数组.exe
+D:\gd\workspace\数组\obj\Debug\数组.pdb
+D:\gd\workspace\数组\obj\Debug\数组.csprojAssemblyReference.cache

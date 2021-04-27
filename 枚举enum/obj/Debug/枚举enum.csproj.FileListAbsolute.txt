@@ -1,0 +1,7 @@
+D:\gd\workspace\枚举enum\bin\Debug\枚举enum.exe.config
+D:\gd\workspace\枚举enum\bin\Debug\枚举enum.exe
+D:\gd\workspace\枚举enum\bin\Debug\枚举enum.pdb
+D:\gd\workspace\枚举enum\obj\Debug\枚举enum.csprojAssemblyReference.cache
+D:\gd\workspace\枚举enum\obj\Debug\枚举enum.csproj.CoreCompileInputs.cache
+D:\gd\workspace\枚举enum\obj\Debug\枚举enum.exe
+D:\gd\workspace\枚举enum\obj\Debug\枚举enum.pdb

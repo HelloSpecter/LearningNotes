@@ -1,0 +1,7 @@
+D:\gd\workspace\静态委托\静态委托\bin\Debug\静态委托.exe.config
+D:\gd\workspace\静态委托\静态委托\bin\Debug\静态委托.exe
+D:\gd\workspace\静态委托\静态委托\bin\Debug\静态委托.pdb
+D:\gd\workspace\静态委托\静态委托\obj\Debug\静态委托.csprojAssemblyReference.cache
+D:\gd\workspace\静态委托\静态委托\obj\Debug\静态委托.csproj.CoreCompileInputs.cache
+D:\gd\workspace\静态委托\静态委托\obj\Debug\静态委托.exe
+D:\gd\workspace\静态委托\静态委托\obj\Debug\静态委托.pdb

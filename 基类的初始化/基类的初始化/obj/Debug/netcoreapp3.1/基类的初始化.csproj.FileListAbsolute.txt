@@ -1,0 +1,13 @@
+D:\gd\workspace\基类的初始化\基类的初始化\bin\Debug\netcoreapp3.1\基类的初始化.exe
+D:\gd\workspace\基类的初始化\基类的初始化\bin\Debug\netcoreapp3.1\基类的初始化.deps.json
+D:\gd\workspace\基类的初始化\基类的初始化\bin\Debug\netcoreapp3.1\基类的初始化.runtimeconfig.json
+D:\gd\workspace\基类的初始化\基类的初始化\bin\Debug\netcoreapp3.1\基类的初始化.runtimeconfig.dev.json
+D:\gd\workspace\基类的初始化\基类的初始化\bin\Debug\netcoreapp3.1\基类的初始化.dll
+D:\gd\workspace\基类的初始化\基类的初始化\bin\Debug\netcoreapp3.1\基类的初始化.pdb
+D:\gd\workspace\基类的初始化\基类的初始化\obj\Debug\netcoreapp3.1\基类的初始化.csprojAssemblyReference.cache
+D:\gd\workspace\基类的初始化\基类的初始化\obj\Debug\netcoreapp3.1\基类的初始化.AssemblyInfoInputs.cache
+D:\gd\workspace\基类的初始化\基类的初始化\obj\Debug\netcoreapp3.1\基类的初始化.AssemblyInfo.cs
+D:\gd\workspace\基类的初始化\基类的初始化\obj\Debug\netcoreapp3.1\基类的初始化.csproj.CoreCompileInputs.cache
+D:\gd\workspace\基类的初始化\基类的初始化\obj\Debug\netcoreapp3.1\基类的初始化.dll
+D:\gd\workspace\基类的初始化\基类的初始化\obj\Debug\netcoreapp3.1\基类的初始化.pdb
+D:\gd\workspace\基类的初始化\基类的初始化\obj\Debug\netcoreapp3.1\基类的初始化.genruntimeconfig.cache

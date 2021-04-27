@@ -1,0 +1,7 @@
+D:\gd\workspace\乘法口诀表\bin\Debug\乘法口诀表.exe.config
+D:\gd\workspace\乘法口诀表\bin\Debug\乘法口诀表.exe
+D:\gd\workspace\乘法口诀表\bin\Debug\乘法口诀表.pdb
+D:\gd\workspace\乘法口诀表\obj\Debug\乘法口诀表.csprojAssemblyReference.cache
+D:\gd\workspace\乘法口诀表\obj\Debug\乘法口诀表.csproj.CoreCompileInputs.cache
+D:\gd\workspace\乘法口诀表\obj\Debug\乘法口诀表.exe
+D:\gd\workspace\乘法口诀表\obj\Debug\乘法口诀表.pdb

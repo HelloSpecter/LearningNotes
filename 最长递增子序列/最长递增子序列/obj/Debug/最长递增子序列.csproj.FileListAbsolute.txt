@@ -1,0 +1,7 @@
+D:\gd\workspace\最长递增子序列\最长递增子序列\bin\Debug\最长递增子序列.exe.config
+D:\gd\workspace\最长递增子序列\最长递增子序列\bin\Debug\最长递增子序列.exe
+D:\gd\workspace\最长递增子序列\最长递增子序列\bin\Debug\最长递增子序列.pdb
+D:\gd\workspace\最长递增子序列\最长递增子序列\obj\Debug\最长递增子序列.csprojAssemblyReference.cache
+D:\gd\workspace\最长递增子序列\最长递增子序列\obj\Debug\最长递增子序列.csproj.CoreCompileInputs.cache
+D:\gd\workspace\最长递增子序列\最长递增子序列\obj\Debug\最长递增子序列.exe
+D:\gd\workspace\最长递增子序列\最长递增子序列\obj\Debug\最长递增子序列.pdb
