@@ -5,3 +5,9 @@ D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_Clien
 D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_ClientTest.csproj.CoreCompileInputs.cache
 D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_ClientTest.exe
 D:\gd\workspace\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_ClientTest.pdb
+F:\github\LearningNotes\ChatRoom_ClientTest\ChatRoom_ClientTest\bin\Debug\ChatRoom_ClientTest.exe.config
+F:\github\LearningNotes\ChatRoom_ClientTest\ChatRoom_ClientTest\bin\Debug\ChatRoom_ClientTest.exe
+F:\github\LearningNotes\ChatRoom_ClientTest\ChatRoom_ClientTest\bin\Debug\ChatRoom_ClientTest.pdb
+F:\github\LearningNotes\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_ClientTest.csproj.CoreCompileInputs.cache
+F:\github\LearningNotes\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_ClientTest.exe
+F:\github\LearningNotes\ChatRoom_ClientTest\ChatRoom_ClientTest\obj\Debug\ChatRoom_ClientTest.pdb

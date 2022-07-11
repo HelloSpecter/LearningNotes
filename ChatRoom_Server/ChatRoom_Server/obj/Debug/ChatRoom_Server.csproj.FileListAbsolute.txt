@@ -5,3 +5,9 @@ D:\gd\workspace\ChatRoom_Server\ChatRoom_Server\obj\Debug\ChatRoom_Server.csproj
 D:\gd\workspace\ChatRoom_Server\ChatRoom_Server\obj\Debug\ChatRoom_Server.csproj.CoreCompileInputs.cache
 D:\gd\workspace\ChatRoom_Server\ChatRoom_Server\obj\Debug\ChatRoom_Server.exe
 D:\gd\workspace\ChatRoom_Server\ChatRoom_Server\obj\Debug\ChatRoom_Server.pdb
+F:\github\LearningNotes\ChatRoom_Server\ChatRoom_Server\bin\Debug\ChatRoom_Server.exe.config
+F:\github\LearningNotes\ChatRoom_Server\ChatRoom_Server\bin\Debug\ChatRoom_Server.exe
+F:\github\LearningNotes\ChatRoom_Server\ChatRoom_Server\bin\Debug\ChatRoom_Server.pdb
+F:\github\LearningNotes\ChatRoom_Server\ChatRoom_Server\obj\Debug\ChatRoom_Server.csproj.CoreCompileInputs.cache
+F:\github\LearningNotes\ChatRoom_Server\ChatRoom_Server\obj\Debug\ChatRoom_Server.exe
+F:\github\LearningNotes\ChatRoom_Server\ChatRoom_Server\obj\Debug\ChatRoom_Server.pdb
