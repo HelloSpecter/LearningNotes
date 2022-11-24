@@ -37,17 +37,15 @@ namespace ChatRoom_Server
                 }
 
                 int msg_Len = this.client_Socket.Receive(data);
-                string msg = Encoding.UTF8.GetString(data, 0, msg_Len);
-                Console.WriteLine("接受到的消息是：\n"+msg);
-
-                Program.BroadCastMessage(msg);
+                //string msg = Encoding.UTF8.GetString(data, 0, msg_Len);
+                Console.WriteLine(string.Format("[{0}]接受到了消息，正在转发...",System.DateTime.Now));
+                Program.BroadCastMessage(data,msg_Len);
             }
         }
 
-        public  void SendMessage(string sendMsg)
+        public  void SendMessage(byte[] data,int len)
         {
-            byte[] sendData = Encoding.UTF8.GetBytes(sendMsg);
-            this.client_Socket.Send(sendData);
+            this.client_Socket.Send(data,0,len,SocketFlags.None);
         }
     }
 }

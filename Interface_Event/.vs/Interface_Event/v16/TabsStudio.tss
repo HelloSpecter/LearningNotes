@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>F:\github\LearningNotes\Interface_Event\Interface_Event\A.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>F:\github\LearningNotes\Interface_Event\Interface_Event\User1.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>F:\github\LearningNotes\Interface_Event\Interface_Event\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>F:\github\LearningNotes\Interface_Event\Interface_Event\User2.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

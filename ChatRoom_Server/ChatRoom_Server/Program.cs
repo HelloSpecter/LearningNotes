@@ -30,7 +30,8 @@ namespace ChatRoom_Server
             while (true)
             {
                 clientSocket = tcpServer.Accept();
-                Console.WriteLine(clientSocket.LocalEndPoint.AddressFamily+"连接到了客户端...");
+                //Console.WriteLine(string.Format("[{0}][{1}]连接到了客户端...", System.DateTime.Now, clientSocket.LocalEndPoint.AddressFamily));
+                Console.WriteLine(string.Format("[{0}][{1}]连接到了客户端...", System.DateTime.Now, clientSocket.LocalEndPoint.AddressFamily));
                 Client client_new = new Client(clientSocket);
                 Program.clients.Add(client_new);
             }
@@ -39,7 +40,7 @@ namespace ChatRoom_Server
         }
 
 
-        public static void BroadCastMessage(string message)
+        public static void BroadCastMessage(byte[] data,int len)
         {
             List<Client> notConnectedList = new List<Client>();
 
@@ -48,14 +49,14 @@ namespace ChatRoom_Server
             {
                 if (client.isConnected)
                 {
-                    client.SendMessage(message);
+                    client.SendMessage(data,len);
                 }
                 else
                 {
                     notConnectedList.Add(client);
                 }
             }
-
+            Console.WriteLine(string.Format("[{0}]已转发消息", System.DateTime.Now));
             foreach (var client_Not in notConnectedList)
             {
                 clients.Remove(client_Not);
